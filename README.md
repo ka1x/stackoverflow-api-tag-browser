@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/-Bootstrap-252525?logo=bootstrap&style=for-the-badge"
     >
   </a>
-    <a href="https://nodejs.org/en">
+    <a href="https://storybook.js.org/">
     <img src="https://img.shields.io/badge/-Storybook-252525?logo=storybook&style=for-the-badge"
     >
   </a>
