@@ -2,7 +2,7 @@ import type {Meta, StoryObj} from '@storybook/react';
 import SortIcon from '../components/SortIcon';
 
 const meta: Meta = {
-   title: 'Filters/SortIcon',
+   title: 'Sorting/SortIcon',
    component: SortIcon,
    tags: ['autodocs'],
 };

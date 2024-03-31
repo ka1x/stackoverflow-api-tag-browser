@@ -3,7 +3,7 @@ import FiltersBar from '../components/FiltersBar';
 
 
 const meta: Meta = {
-   title: 'Filters/FiltersBar',
+   title: 'Sorting/FiltersBar',
    component: FiltersBar,
    tags: ['autodocs'],
 };

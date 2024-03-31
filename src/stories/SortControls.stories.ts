@@ -2,7 +2,7 @@ import { Meta,  StoryObj } from '@storybook/react';
 import SortControls from '../components/SortControls';
 
 const meta: Meta = {
-  title: 'Filters/SortControls',
+  title: 'Sorting/SortControls',
   component: SortControls,
   args: {
 	label: 'example title',

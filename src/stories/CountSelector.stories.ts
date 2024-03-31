@@ -3,7 +3,7 @@ import CountSelector from '../components/CountSelector';
 
 
 const meta: Meta = {
-   title: 'Filters/CountSelector',
+   title: 'Sorting/CountSelector',
    component: CountSelector,
    tags: ['autodocs'],
 };
